@@ -18,38 +18,38 @@ We implement our Dessert Classification Model on an IOS Mobile Application that 
 3. Open Desertly Application on your IOS home screen
 
 <p align="center">
-  <img src="https://github.com/pitydevil/Bangkit-dessertly-app/blob/master/Images/step1.png">
+  <img src="https://github.com/tobiassilalahi/Desertly_MobileApplication/blob/main/resource/step3.png">
 </p>
 
 4. In the application homepage, the user is provided with a selection of Randomize Dessert Recommendation in which the user can see the nutritional information regarding that particular dessert recommendation that they clock and the recipe behind it.
 
 <p align="center">
-  <img src="https://github.com/pitydevil/Bangkit-dessertly-app/blob/master/Images/step2.png">
+  <img src="https://github.com/tobiassilalahi/Desertly_MobileApplication/blob/main/resource/step4.png">
 </p>
 
 5. The user may click the "Identify Dessert" option on the middle right screen to use Desertly main feature which is the Dessert Classification Model.
 
 <p align="center">
-  <img src="https://github.com/pitydevil/Bangkit-dessertly-app/blob/master/Images/step3.png">
+  <img src="https://github.com/tobiassilalahi/Desertly_MobileApplication/blob/main/resource/step5.png">
 </p>
 
 6. Then the user has the option of taking a photo directly using the smartphone's camera, use an image from the user phone's Photo Library or from Saved Photos Album
 7. If the user opts for "Take a photo Option", the user will be redirected to smartphone's camera app
 
 <p align="center">
-  <img src="https://github.com/pitydevil/Bangkit-dessertly-app/blob/master/Images/step4.png">
+  <img src="https://github.com/tobiassilalahi/Desertly_MobileApplication/blob/main/resource/step7.png">
 </p>
 
 8. After the user take a shot of the picture user can adjust the picture for better image input
 
 <p align="center">
-  <img src="https://github.com/pitydevil/Bangkit-dessertly-app/blob/master/Images/step5.png">
+  <img src="https://github.com/tobiassilalahi/Desertly_MobileApplication/blob/main/resource/step8.png">
 </p>
 
 9. Then the app is fetching from our REST API in the server which runs the Dessert Classification model to classify the dessert from the input image
 
 <p align="center">
-  <img src="https://github.com/pitydevil/Bangkit-dessertly-app/blob/master/Images/step6.png">
+  <img src="https://github.com/tobiassilalahi/Desertly_MobileApplication/blob/main/resource/step9.png">
 </p>
 
 10. Finally, the application will provide a search result from the classification in which the user can click for further information regarding the dessert.
