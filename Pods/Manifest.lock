@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.9.1)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SDWebImage (5.8.0):
+    - SDWebImage/Core (= 5.8.0)
+  - SDWebImage/Core (5.8.0)
+  - SwiftyJSON (5.0.0)
+  - TTGSnackbar (1.10.3)
+  - UIColor_Hex_Swift (5.0.0)
+  - UPCarouselFlowLayout (1.1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - NVActivityIndicatorView
+  - SDWebImage
+  - SwiftyJSON
+  - TTGSnackbar
+  - UIColor_Hex_Swift (~> 5.0.0)
+  - UPCarouselFlowLayout
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SwiftyJSON
+    - TTGSnackbar
+    - UIColor_Hex_Swift
+    - UPCarouselFlowLayout
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SDWebImage: 84000f962cbfa70c07f19d2234cbfcf5d779b5dc
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  TTGSnackbar: 97c033600de8a9c8f4a093f25a08543a03946bcc
+  UIColor_Hex_Swift: ca96173c106070db96ae807313278d80170f23f4
+  UPCarouselFlowLayout: 4c7d2c43a10ebb1597bde502a53699d378341dad
+
+PODFILE CHECKSUM: 7c1f6fec7b87a7dbb81f99acf41a7ab9fa43d529
+
+COCOAPODS: 1.9.1
