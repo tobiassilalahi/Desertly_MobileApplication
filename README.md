@@ -3,10 +3,10 @@
 ## Realworld application on Dessert Classification on IOS Mobile Application
 
 Created by Bangkit group JKT-1B:
+* Tobias Ivandito Margogo Silalahi, @tobiassilalahi
 * Farel Firman, @farelyue
 * Mikhael Adiputra, @pitydevil
 * Theresia Veronika Rampisela, @theresiavr
-* Tobias Ivandito Margogo Silalahi, @tobiassilalahi
 
 ## Introduction
 We implement our Dessert Classification Model on an IOS Mobile Application that is written in Swift. Hence our application is only available in the App Store.
